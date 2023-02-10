@@ -7,7 +7,8 @@
 $ pip install google_images_download (bug)
 # install from CLI
 git clone https://github.com/Joeclinton1/google-images-download.git
-cd google-images-download && python pip install -v -e .
+(use google-images-download folder in this repo is better, as source file changed)
+cd google-images-download && pip install -v -e .
 ```
 
 ### Usage
