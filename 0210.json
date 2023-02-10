@@ -1,0 +1,18 @@
+{
+    "Records": [
+        {
+            "keywords": "Taylor Swift",
+            "limit": 5,
+            "size": "large",
+            "format": "jpg",
+            "output_directory": "/home/notebook/DB0210/Taylor Swift/input"
+        },
+        {
+            "keywords": "Leonardo DiCaprio",
+            "limit": 5,
+            "size": "large",
+            "format": "jpg",
+            "output_directory": "/home/notebook/DB0210/Leonardo DiCaprio/input"
+        }
+    ]
+}
